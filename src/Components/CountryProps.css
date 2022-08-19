@@ -1,0 +1,14 @@
+.country-props p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    width: 200px;
+    margin: 0 auto;
+    line-height: 20px;
+    padding-top: 10px;
+}
+.country-props img{
+    width: 200px;
+    height: 120px;
+    margin-top: 40px;
+}
